@@ -1,0 +1,23 @@
+body{
+
+    text-aligne:center;
+    background-color:yellow;
+}
+
+p{
+
+    color:red;
+
+
+
+}
+h3{
+
+
+    color:red;
+}
+
+h1{
+
+    color:blue;
+}
